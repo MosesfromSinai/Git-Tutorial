@@ -1,2 +1,2 @@
-console.log('confij.js');
+console.log('config.js');
 console.log('version1');
